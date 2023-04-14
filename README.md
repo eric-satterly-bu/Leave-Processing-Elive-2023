@@ -12,3 +12,31 @@ You will need to resolve 6 connections in your environment, details are below...
 4.	Excel Online for Business – tools for working with Excel tables
 5.	SharePoint – Holds two critical lists for this project
 6.	Office 365 Outlook – sends email to provide information and status 
+
+Inside of the SharePoint Online Site you create to house the calendar you need the following two lists with these fields.
+
+List named "Staff"
+Name - Single line of text	
+Email - Single line of text	
+Initials - Single line of text	
+Employee ID - Single line of text	
+Modified - Date and Time	
+Created - Date and Time	
+Created By - Person or Group	
+Modified By - Person or Group
+
+List named "Leave Calendar"
+Email - Single line of text	
+Display Name - Single line of text	
+Employee ID - Single line of text	
+Leave Date - Date and Time	
+Leave Type - Single line of text	
+Leave Hours - Number	
+Leave Status - Choice	
+Leave Detail ID - Number	
+Initials - Single line of text	
+Cal Disp - Single line of text	
+Modified - Date and Time	
+Created - Date and Time	
+Created By - Person or Group	
+Modified By - Person or Group
